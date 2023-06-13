@@ -1,0 +1,10 @@
+* lmdb
+
+LMDB bindings for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/antimer/lmdb.git   |
+| commit  | e0f9468  |
+| systems | lmdb |
+|---------+-------------------------------------------|
+
