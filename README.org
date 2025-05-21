@@ -2,9 +2,9 @@
 
 LMDB bindings for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/antimer/lmdb.git   |
-| commit  | e0f9468  |
-| systems | lmdb |
-|---------+-------------------------------------------|
+|---------+-----------------------------------------|
+| source  | git:https://github.com/melisgl/lmdb.git |
+| commit  | 00af212                                 |
+| systems | lmdb                                    |
+|---------+-----------------------------------------|
 
